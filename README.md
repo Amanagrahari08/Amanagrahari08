@@ -1,7 +1,12 @@
-Project Title - E-Learning:Research and Applications<br>
-Developed using AWT,Swing,Java,Jframe..etc<br>
-This aim to be educate the students who wants distance learning, get all the resources such as video, notes, quizes etc 24*7 from anywhere.<br>
-<br>....
+👋 Hi, I'm Aman Agrahari
+💻 Software Engineer | Passionate about crafting scalable and efficient solutions.
+🔧 Technology: HTML, CSS, C Language, Java, Pthon, Database, DSA 
+🌱 Currently Learning: node.js, Php, DSA, Advance Java.
+🚀 Hobbies: Traveling, Cricket, Take adventure and new experience.
+📫 Reach Me: amanagrahari440@gmail.com
+Phone no.: 8604575299
+
+
 
 
 <!---
